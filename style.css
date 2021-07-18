@@ -1,0 +1,29 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-image: url(img/background.jpg);
+  background-size: cover;
+}
+
+#Dosen {
+  background-color: #198754;
+}
+
+#Foto {
+  background-color: #198754;
+}
+
+#Prodi {
+  background-color: #198754;
+}
+
+#info {
+  background-color: #198754;
+}
+
+section {
+  padding-top: 5rem;
+}
